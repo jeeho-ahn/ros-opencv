@@ -1,0 +1,9 @@
+<!-- 
+Example launch file for ros-opencv packagage. Nothing special.
+-->
+
+
+<launch>
+	<node pkg="ros_opencv" type="ros_opencv" name="example" output="screen">
+	</node>
+</launch>
